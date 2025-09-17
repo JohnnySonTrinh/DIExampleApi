@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1Ehpf4pmh0=",
+  "success": true,
+  "projectFilePath": "/Users/johnnytrinh/Documents/GitHub/DIExampleApi/DIExampleApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnnytrinh/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/Users/johnnytrinh/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
