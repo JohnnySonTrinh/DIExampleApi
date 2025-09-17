@@ -30,3 +30,4 @@
 /Users/johnnytrinh/Documents/GitHub/DIExampleApi/obj/Debug/net9.0/DIExampleApi.pdb
 /Users/johnnytrinh/Documents/GitHub/DIExampleApi/obj/Debug/net9.0/DIExampleApi.genruntimeconfig.cache
 /Users/johnnytrinh/Documents/GitHub/DIExampleApi/obj/Debug/net9.0/ref/DIExampleApi.dll
+/Users/johnnytrinh/Documents/GitHub/DIExampleApi/obj/Debug/net9.0/DIExampleApi.sourcelink.json
